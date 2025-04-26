@@ -97,7 +97,7 @@ const Navbar = () => {
                 </AnimatedLink>
               </div>
               <div className="flex items-center gap-5">
-                <Link href={"https://x.com/AI_Devial"}>
+                <Link href={"https://x.com/devixonsol"}>
                   <Image
                     src={"/images/twitter.svg"}
                     alt="Twitter"
@@ -105,7 +105,7 @@ const Navbar = () => {
                     height={24}
                   />
                 </Link>
-                <Link href={"https://x.com/AI_Devial"}>
+                <Link href={"https://x.com/TheRealRicoy"}>
                   <Image
                     src={"/images/devx.png"}
                     alt="Twitter"
