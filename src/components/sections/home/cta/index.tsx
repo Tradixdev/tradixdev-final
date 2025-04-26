@@ -9,7 +9,7 @@ const CTA = () => {
       <div className="border rounded-3xl p-7 md:p-14 ">
         <p className="text-3xl font-syne  text-white/70 max-w-2xl mb-10">
           <span className="text-[#B5FE00] font-bold">
-            Seize the chance to be among the first to experience Devial&apos;s
+            Seize the chance to be among the first to experience Devix&apos;s
             breakthroughs
           </span>{" "}
           — reach out to us today.

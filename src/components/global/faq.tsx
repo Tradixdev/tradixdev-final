@@ -22,7 +22,7 @@ const FAQ = ({ open, onOpenChange }: FAQSProps) => {
             </DialogTitle>
           </div>
           <p className="text-sm text-zinc-400">
-            Everything you need to know about Devial.
+            Everything you need to know about Devix.
           </p>
         </DialogHeader>
         <Accordion
@@ -34,23 +34,22 @@ const FAQ = ({ open, onOpenChange }: FAQSProps) => {
           <AccordionItem value="item-1">
             <AccordionTrigger>
               <div className="flex items-center gap-3">
-                Which blockchains does Devial support?
+                Which blockchains does Devix support?
               </div>
             </AccordionTrigger>
             <AccordionContent>
-              Devial currently supports major networks like Ethereum, Solana,
-              BSC and Polygon, with plans to expand to other popular
-              blockchains.
+              Devix currently supports major networks like Ethereum, Solana, BSC
+              and Polygon, with plans to expand to other popular blockchains.
             </AccordionContent>
           </AccordionItem>
           <AccordionItem value="item-2">
             <AccordionTrigger>
               <div className="flex items-center gap-3">
-                Can Devial integrate with existing development tools?
+                Can Devix integrate with existing development tools?
               </div>
             </AccordionTrigger>
             <AccordionContent>
-              Devial offers plugins and API endpoints that work seamlessly with
+              Devix offers plugins and API endpoints that work seamlessly with
               popular dev stacks such as Hardhat, Truffle, and Foundry. This
               allows you to incorporate AI-driven contract generation without
               disrupting your existing workflow.
@@ -59,7 +58,7 @@ const FAQ = ({ open, onOpenChange }: FAQSProps) => {
           <AccordionItem value="item-3">
             <AccordionTrigger>
               <div className="flex items-center gap-3">
-                How do I get started with Devial?
+                How do I get started with Devix?
               </div>
             </AccordionTrigger>
             <AccordionContent>
@@ -74,7 +73,7 @@ const FAQ = ({ open, onOpenChange }: FAQSProps) => {
               </div>
             </AccordionTrigger>
             <AccordionContent>
-              Devial has a dedicated help center, an official Discord channel,
+              Devix has a dedicated help center, an official Discord channel,
               and regular AMAs on Twitter (X). You can also reach out via email
               for technical assistance and account-related questions.
             </AccordionContent>

@@ -25,12 +25,13 @@ const Grid = () => {
           </div>
           <p className="text-2xl text-white/70">
             <span className="text-white font-semibold">
-            Easily generate optimized,
+              Easily generate optimized,
             </span>{" "}
-            blockchain-focused smart contracts and dApps with AI-driven code suggestions tailored to your project.
+            blockchain-focused smart contracts and dApps with AI-driven code
+            suggestions tailored to your project.
           </p>
           <Image
-            src={"/images/devial_screen_1.png"}
+            src={"/images/devix_screen_1.jpg"}
             alt="Grid1"
             className="w-full rounded-2xl mt-5"
             width={600}
@@ -43,9 +44,10 @@ const Grid = () => {
           </div>
           <p className="text-2xl text-white/70">
             <span className="text-white">
-            Deploy your dApps and smart contracts
+              Deploy your dApps and smart contracts
             </span>{" "}
-            across multiple blockchains effortlessly—no manual setup or complex configurations needed.
+            across multiple blockchains effortlessly—no manual setup or complex
+            configurations needed.
           </p>
           <div
             className="relative mt-5"
@@ -104,9 +106,10 @@ const Grid = () => {
           </div>
           <p className="text-2xl text-white/70">
             <span className="text-[#B5FE00] font-semibold">
-            Unleash the power of AI-driven blockchain development.
+              Unleash the power of AI-driven blockchain development.
             </span>{" "}
-            From smart code generation to effortless deployment, everything you need is at your command.
+            From smart code generation to effortless deployment, everything you
+            need is at your command.
           </p>
           <Accordion
             type="single"
@@ -176,7 +179,7 @@ const Grid = () => {
         </div>
         <div className="p-7 rounded-3xl border border-[#B5FE00] md:p-14 relative bg-gradient-to-br from-[#B5FE00]/50 to-transparent overflow-hidden border-t">
           <TiltedCard
-            imageSrc="/images/codeddd.png"
+            imageSrc="/images/codedddd.jpg"
             altText="Dashboard"
             captionText="OMEGA AI"
             containerHeight="600px"

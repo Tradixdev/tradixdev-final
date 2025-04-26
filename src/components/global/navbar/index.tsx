@@ -62,16 +62,16 @@ const Navbar = () => {
   return (
     <section>
       <nav className="fixed top-1 md:top-5 left-1/2 -translate-x-1/2 rounded-full backdrop-blur-2xl w-full z-[9999] max-w-7xl mx-auto bg-black/50">
-        <div className="max-w-7xl p-3 md:p-1 md:px-3 h-full mx-auto ">
+        <div className="max-w-7xl p-3 md:p-3 md:px-4 h-full mx-auto ">
           <div className="flex gap-7 justify-between items-center">
             <Link href={"/"} className="">
               {/* <h3 className="font-bold">Omega</h3> */}
               <Image
-                src={"/images/logo.png"}
+                src={"/images/logodev.png"}
                 alt="Logo"
-                width={60}
-                height={60}
-                className="rounded-full"
+                width={65}
+                height={65}
+                className="size-10 rounded-full"
               />
             </Link>
             <div className="hidden md:flex items-center justify-between w-full">

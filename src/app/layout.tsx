@@ -11,7 +11,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Devial Tech",
+  title: "Tradix",
   description: "AI-powered code generation and deployment",
 };
 

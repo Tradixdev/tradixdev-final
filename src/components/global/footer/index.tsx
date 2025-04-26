@@ -1,4 +1,4 @@
-'use client'
+"use client";
 
 import Link from "next/link";
 import React, { useState } from "react";
@@ -16,9 +16,9 @@ const Footer = () => {
     <footer className="border-t">
       <div className="grid p-7 md:p-14 container mx-auto gap-5 md:gap-0 grid-cols-1 md:grid-cols-5">
         <div className="md:col-span-4">
-          <h3 className="font-bold text-3xl font-syne mb-3">Devial Tech</h3>
+          <h3 className="font-bold text-3xl font-syne mb-3">Devix Tech</h3>
           <p className="mb-10 max-w-80">
-            AI-powered code generation and deployment © 2025 Devial
+            AI-powered code generation and deployment © 2025 Devix
           </p>
           <div className="flex items-center gap-5">
             <Link href={"https://x.com/AI_Devial"}>
@@ -37,7 +37,11 @@ const Footer = () => {
                 height={24}
               />
             </Link>
-            <Link href={"https://dexscreener.com/solana/QDbj3rHgq31tsE4CQviSULQR7tJYQbCFfppZYPdpump "}>
+            <Link
+              href={
+                "https://dexscreener.com/solana/QDbj3rHgq31tsE4CQviSULQR7tJYQbCFfppZYPdpump "
+              }
+            >
               <Image
                 src={"/images/unnamed.png"}
                 alt="Twitter"

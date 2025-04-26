@@ -10,15 +10,6 @@ const Support = () => {
       <div className="w-full grid grid-cols-1 md:grid-cols-4">
         <div className="w-full h-full p-7 md:p-14 flex items-center justify-center">
           <Image
-            src={"/images/img1.avif"}
-            alt="Image1"
-            width={1000}
-            height={1000}
-            className="object-cover w-40 md:w-full"
-          />
-        </div>
-        <div className="w-full h-full p-7 md:p-14 flex items-center justify-center">
-          <Image
             src={"/images/img2.avif"}
             alt="Image1"
             width={1000}
@@ -28,7 +19,7 @@ const Support = () => {
         </div>
         <div className="w-full h-full p-7 md:p-14 flex items-center justify-center">
           <Image
-            src={"/images/img3.avif"}
+            src={"/images/img1.avif"}
             alt="Image1"
             width={1000}
             height={1000}
@@ -38,6 +29,15 @@ const Support = () => {
         <div className="w-full h-full p-7 md:p-14 flex items-center justify-center">
           <Image
             src={"/images/img4.avif"}
+            alt="Image1"
+            width={1000}
+            height={1000}
+            className="object-cover w-40 md:w-full"
+          />
+        </div>
+        <div className="w-full h-full p-7 md:p-14 flex items-center justify-center">
+          <Image
+            src={"/images/img3.avif"}
             alt="Image1"
             width={1000}
             height={1000}

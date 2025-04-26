@@ -74,7 +74,7 @@ const StickyGrid = () => {
               />
             </div>
           </div>
-          <div className="flex items-center gap-3 mb-3 text-neutral-700 text-sm">
+          <div className="flex items-center gap-3 mb-3 text-white text-sm">
             Endless possibilities.
           </div>
           <p className="text-2xl text-white/70 mb-5">
@@ -85,7 +85,7 @@ const StickyGrid = () => {
           </p>
           <div className="w-full md:absolute mx-auto">
             <Image
-              src={"/images/devial_screen_1.png"}
+              src={"/images/devix_screen_1.jpg"}
               alt="Grid1"
               className="rounded-3xl w-full h-full"
               width={400}

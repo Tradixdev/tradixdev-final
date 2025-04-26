@@ -75,19 +75,19 @@ const Token = () => {
       icon: DollarSign,
       title: "Native Service Fees",
       description:
-        "Devial Tech tokens power contract deployments, AI-driven audits, and premium features—fueling the ecosystem and ensuring seamless platform operations.",
+        "Devix Tech tokens power contract deployments, AI-driven audits, and premium features—fueling the ecosystem and ensuring seamless platform operations.",
     },
     {
       icon: Percent,
       title: "Governance & Voting",
       description:
-        "Token holders can propose and vote on platform upgrades, feature rollouts, and roadmap decisions, directly shaping Devial's future.",
+        "Token holders can propose and vote on platform upgrades, feature rollouts, and roadmap decisions, directly shaping Devix's future.",
     },
     {
       icon: TrendingUp,
       title: "Staking & Rewards",
       description:
-        "Staking Devial tokens lets participants earn passive rewards, enjoy reduced fees, and gain priority access to advanced AI features.",
+        "Staking Devix tokens lets participants earn passive rewards, enjoy reduced fees, and gain priority access to advanced AI features.",
     },
     {
       icon: Verified,
@@ -99,7 +99,7 @@ const Token = () => {
       icon: CandlestickChart,
       title: "Ecosystem Incentives",
       description:
-        "Token ownership unlocks partner discounts, cross-platform collaborations, and referral perks, enhancing the Devial blockchain community.",
+        "Token ownership unlocks partner discounts, cross-platform collaborations, and referral perks, enhancing the Devix blockchain community.",
     },
   ];
 
