@@ -182,17 +182,9 @@ const Navbar = () => {
                             height={24}
                           />
                         </Link>
-                        <Link href={"https://t.me/devialai"}>
-                          <Image
-                            src={"/images/telegram.png"}
-                            alt="Twitter"
-                            width={24}
-                            height={24}
-                          />
-                        </Link>
                         <Link
                           href={
-                            "https://dexscreener.com/solana/QDbj3rHgq31tsE4CQviSULQR7tJYQbCFfppZYPdpump"
+                            ""
                           }
                         >
                           <Image
