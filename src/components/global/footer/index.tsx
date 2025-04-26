@@ -21,7 +21,7 @@ const Footer = () => {
             AI-powered code generation and deployment © 2025 Devix
           </p>
           <div className="flex items-center gap-5">
-            <Link href={"https://x.com/AI_Devial"}>
+            <Link href={"https://x.com/devixonsol"}>
               <Image
                 src={"/images/twitter.svg"}
                 alt="Twitter"
@@ -29,24 +29,12 @@ const Footer = () => {
                 height={24}
               />
             </Link>
-            <Link href={"https://t.me/devialai"}>
+            <Link href={"https://t.me/TheRealRicoy"}>
               <Image
-                src={"/images/telegram.png"}
+                src={"/images/devx.png"}
                 alt="Twitter"
                 width={24}
                 height={24}
-              />
-            </Link>
-            <Link
-              href={
-                "https://dexscreener.com/solana/QDbj3rHgq31tsE4CQviSULQR7tJYQbCFfppZYPdpump "
-              }
-            >
-              <Image
-                src={"/images/unnamed.png"}
-                alt="Twitter"
-                width={28}
-                height={28}
               />
             </Link>
           </div>
