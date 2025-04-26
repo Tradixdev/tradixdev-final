@@ -105,6 +105,14 @@ const Navbar = () => {
                     height={24}
                   />
                 </Link>
+                <Link href={"https://x.com/AI_Devial"}>
+                  <Image
+                    src={"/images/devx.png"}
+                    alt="Twitter"
+                    width={28}
+                    height={28}
+                  />
+                </Link>
                 <Link href={"https://t.me/devialai"}>
                   <Image
                     src={"/images/telegram.png"}
@@ -169,6 +177,14 @@ const Navbar = () => {
                         <Link href={"https://x.com/AI_Devial"}>
                           <Image
                             src={"/images/twitter.svg"}
+                            alt="Twitter"
+                            width={24}
+                            height={24}
+                          />
+                        </Link>
+                        <Link href={"https://x.com/AI_Devial"}>
+                          <Image
+                            src={"/images/devx.png"}
                             alt="Twitter"
                             width={24}
                             height={24}

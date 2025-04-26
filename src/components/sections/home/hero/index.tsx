@@ -1,20 +1,12 @@
-import { AnimatedShinyText } from "@/components/magicui/animated-shiny-text";
-import { Ripple } from "@/components/magicui/ripple";
-import { Boxes } from "@/components/ui/background-boxes";
 import Aurora from "@/lib/Aurora/Aurora";
-import Orb from "@/lib/Orb/Orb";
 import TextPressure from "@/lib/TextPressure/TextPressure";
 import Waves from "@/lib/Waves/Waves";
-import { ArrowRightIcon } from "lucide-react";
 import React from "react";
 
 const Hero = () => {
   return (
-    <section className="h-[60vh] md:h-[90vh] mx-auto relative overflow-hidden">
+    <section className="h-[60vh] md:h-screen mx-auto relative overflow-hidden">
       <div className="h-full flex w-full ">
-        {/* <Boxes /> */}
-
-        {/* <Ripple mainCircleSize={240} numCircles={14} className=""/> */}
         <Waves
           lineColor="#B5FE00"
           backgroundColor="rgba(255, 255, 255, 0.2)"
@@ -32,7 +24,7 @@ const Hero = () => {
         <div className="flex flex-col z-10 justify-center items-center gap-5 w-full h-full">
           <div className="size-full flex flex-col z-10 justify-center items-center gap-5 mx-20 mt-28">
             <TextPressure
-              text="TRADIX"
+              text="DEVIX"
               flex={true}
               alpha={false}
               stroke={false}
